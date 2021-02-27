@@ -23,7 +23,6 @@ composer install
 
 ```
 npm install
-npm run dev
 ```
 
 ##### Se tiene que clonar contenido del archivo .env.example
