@@ -28,6 +28,12 @@ npm install
 npm run dev
 ```
 
+##### Se tiene que ejecutar las migraciones
+
+```
+php artisan migrate --seed
+```
+
 ##### Se tiene que crear un link simbólico de la carpeta storage para poder accederla desde la carpeta /public.
 
 ```
