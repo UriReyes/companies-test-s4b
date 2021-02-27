@@ -1,5 +1,3 @@
-<p align="center"><a href="https://silent4business.com/silent-4-business-esp/" target="_blank"><img src="https://silent4business.com/wp-content/uploads/2019/06/Silent4Business-Logo-Color.png" width="200"></a></p>
-
 ## Acerca
 
 Solución para la prueba de Silent4Bussines (Construye un proyecto para manejar compañías y empleados)
