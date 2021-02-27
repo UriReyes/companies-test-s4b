@@ -26,6 +26,18 @@ npm install
 npm run dev
 ```
 
+##### Se tiene que clonar contenido del archivo .env.example
+
+```
+cp .env.example .env
+```
+
+##### Se tiene que generar APP_KEY y prueba
+
+```
+php artisan key:generate
+```
+
 ##### Se tiene que ejecutar las migraciones
 
 ```
